@@ -1,0 +1,8 @@
+config/__pycache__
+<<<<<<< HEAD
+output
+=======
+output/*/*
+!output/*/*.v
+!output/*/*.db
+>>>>>>> 53cde64 (mp_ooo patch3)
